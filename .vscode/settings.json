@@ -1,0 +1,4 @@
+{
+  "C_Cpp.default.compileCommands": "bin\\compile_commands.json",
+  "FSharp.suggestGitignore": false
+}
